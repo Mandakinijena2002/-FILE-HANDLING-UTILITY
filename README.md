@@ -64,3 +64,7 @@ Some potential real-world applications include:
 >> Journling Apps: A journaling app can use the program's file operations to read and write journal entries to a file.
 >> Data Import/Export Tools: A data import/export tool can use the program's file operations to read and write data to files in various formats.
 >> File Synchronization Tools: A File synchronization tool can use the program's file operations to synchronize files between different locations.
+
+*OUTPUT*:
+<img width="682" alt="Image" src="https://github.com/user-attachments/assets/059ab1b9-6a02-4b33-83f5-e69b7e87779e" />
+
