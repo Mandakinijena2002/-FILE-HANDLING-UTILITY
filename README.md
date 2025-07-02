@@ -66,5 +66,7 @@ Some potential real-world applications include:
 >> File Synchronization Tools: A File synchronization tool can use the program's file operations to synchronize files between different locations.
 
 *OUTPUT*:
+
+
 <img width="682" alt="Image" src="https://github.com/user-attachments/assets/059ab1b9-6a02-4b33-83f5-e69b7e87779e" />
 
